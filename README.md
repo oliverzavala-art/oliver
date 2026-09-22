@@ -1,5 +1,6 @@
 README.md
-
+# Oliver Zavala 
+# fecha 09/22/2026
 ## Descripción
 Notas sobre mis primeras semanas en la clase de programación utilizando Python
 
@@ -16,5 +17,3 @@ Notas sobre mis primeras semanas en la clase de programación utilizando Python
 * Uso de sentencias `if`, `elif` y `else`.
 * Operadores de comparación (`==`, `!=`, `<`, `>`, `<=`, `>=`).
 * Operadores booleanos y de lógica (`and`, `or`, `not`).
-# Oliver Zavala 
-# fecha 09/22/2026
